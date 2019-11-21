@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "backpack/crud": "4.0.*|v4.x-dev"
+        "xylophone/crud": "4.0.*|v4.x-dev"
     },
     "require-dev": {
         "phpunit/phpunit" : "4.*",
